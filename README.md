@@ -16,7 +16,9 @@ python zoo_management.py
 📂 Структура проекта
 
 ├── zoo_management.py       # Основной файл программы
+
 ├── zoo_data.json           # Файл для сохранения данных зоопарка
+
 └── README.md               # Описание проекта
 
 
